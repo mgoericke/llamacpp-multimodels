@@ -1,6 +1,6 @@
-package de.init.demo.ai.boundary;
+package de.javamark.demo.ai.boundary;
 
-import de.init.demo.ai.control.MyAgent;
+import de.javamark.demo.ai.control.MyAgent;
 import io.smallrye.mutiny.Multi;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.POST;

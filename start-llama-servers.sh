@@ -28,7 +28,7 @@ PID_FILE="./llama-servers.pid"
 CHAT_NAME="Chat (Qwen3-4B)"
 CHAT_MODEL="ggml-org/Qwen3-4B-GGUF:Q4_K_M"
 CHAT_PORT=8033
-CHAT_CONTEXT=4000
+CHAT_CONTEXT=16384
 
 # Embedding Server
 EMBEDDING_NAME="Embeddings (nomic-embed-text)"
